@@ -5,6 +5,7 @@
     border-radius: none;
     margin: 0;
     padding: 0;
+    color: rgb(255, 255, 255) !important;
 
     .label {
         color: rgb(255, 255, 255) !important;
